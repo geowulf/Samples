@@ -82,6 +82,3 @@ function maskCardNumber(cardNumber) {
 ### **Important Note**  
 This masking is purely cosmetic and does not affect the underlying secure iframe. It’s just a visual aid for users. Direct access to the actual input field or modifying its value is not possible due to security restrictions imposed by Cybersource.
 
----
-
-Would you like to test this, or should we refine it further?
