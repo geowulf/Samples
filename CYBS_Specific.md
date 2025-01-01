@@ -125,6 +125,4 @@ document.addEventListener('DOMContentLoaded', () => {
 2. Create a backend route (`/process-payment`) to handle the token securely and complete the transaction.
 3. Test in Cybersource’s **sandbox environment** before going live.
 
----
 
-Would you like me to help with the backend integration or expand on token handling in the front end?
